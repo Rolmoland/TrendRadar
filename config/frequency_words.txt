@@ -3,10 +3,8 @@ VIVO
 荣耀
 小米
 华为
-iphone
-ipad
-mac
-ios
+苹果
+@10
 
 大疆
 宇树
@@ -19,7 +17,7 @@ ios
 英伟达
 AMD
 谷歌
-
+@15
 
 gemini
 deepmind
@@ -28,8 +26,10 @@ openai
 sora
 claude
 Anthropic
+@15
 
 ai
 人工智能
 自动驾驶
 机器人
+@15
